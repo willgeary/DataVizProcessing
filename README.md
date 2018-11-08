@@ -8,6 +8,8 @@ This repository contains a few example [Processing](https://processing.org/) ske
 
 `PieChart` is an example of an animated pie chart.
 
+`LineChart` is an example of an animated line chart.
+
 
 
 ## p5.js
