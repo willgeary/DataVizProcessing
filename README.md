@@ -10,8 +10,16 @@ This repository contains a few example Processing sketches.
 
 
 
-#### p5.js
+### p5.js
 
 Additionally, here are some example sketches made with p5.js, which is a javascript library that uses the same philosophical framework as Processing.
 
 [Scattered Lines](https://editor.p5js.org/willgeary/sketches/ByQUyhDnX)
+
+[Grid](https://editor.p5js.org/willgeary/sketches/rJhshoD2Q)
+
+[Rotating Line](https://editor.p5js.org/willgeary/sketches/SkNRuiw27)
+
+[Easing](https://editor.p5js.org/willgeary/sketches/rJAFd8ciz)
+
+[CitiBike Availability](https://editor.p5js.org/willgeary/sketches/r10NB3DhQ)
