@@ -1,6 +1,6 @@
 # DataVizProcessing
 
-This repository contains a few example Processing sketches.
+This repository contains a few example [Processing](https://processing.org/) sketches.
 
 `CitiBikeTrips` is by Juan Francisco Saldarriaga. You can see more from him here: https://github.com/juanfrans-courses/DataScienceSocietyWorkshop
 
@@ -12,7 +12,7 @@ This repository contains a few example Processing sketches.
 
 ## p5.js
 
-Additionally, here are some example sketches made with p5.js, which is a javascript library that uses the same philosophical framework as Processing.
+Additionally, here are some example sketches made with [p5.js](https://p5js.org/), which is a javascript library that uses the same philosophical framework as Processing.
 
 [Scattered Lines](https://editor.p5js.org/willgeary/sketches/ByQUyhDnX)
 
